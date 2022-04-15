@@ -1,0 +1,3 @@
+﻿  caolei.c
+H:\vs\sanziqi\sanziqi\caolei.c(76): warning C4715: “shenti”: 不是所有的控件路径都返回值
+  sanziqi.vcxproj -> H:\vs\sanziqi\x64\Debug\sanziqi.exe
